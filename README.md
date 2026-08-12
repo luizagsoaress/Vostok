@@ -4,7 +4,7 @@
 
 **Vostok** é um projeto de software de código aberto, voltado a exibir de maneira acessível diversos dados da NASA, como imagens, erupções solares recentes, asteroides monitorados, etc.
 
-Desenvolvido como projeto de estudos, o nome foi inspirado na série de 'spacecrafts' soviéticas, responsável por levar o primeiro ser humano (Yury A. Gagarin) para o espaço. Novas features serão adicionadas mensalmente, permitindo a visualização de novos conteúdos. 
+Desenvolvido como projeto de estudos, o nome foi inspirado na série de 'spacecrafts' soviéticas, responsável por levar o primeiro ser humano (Yury A. Gagarin) para o espaço. Novas features serão adicionadas mensalmente, permitindo a visualização de novos conteúdos.
 
 **Exemplo**: Imagem do dia (2026-08-12)
 
@@ -23,7 +23,7 @@ cd Vostok
 cd vostok
 
 # Rode o código usando Maven:
-mvn clean package && mvn compile && mvn javafx:run 
+mvn clean package && mvn compile && mvn javafx:run
 ```
 
 ## Exemplo
@@ -38,11 +38,21 @@ Clique na seta `>` para ver o próximo asteroide, ou na `<` para visualizar o an
 
 ## Telas
 
-![exemplo 1](./exemplos/exemplo_1.png)
-![exemplo 2](./exemplos/exemplo_2.png)
-![exemplo 0](./exemplos/exemplo_0.png)
-![exemplo 3](./exemplos/exemplo_3.png)
-![exemplo 4](./exemplos/exemplo_4.png)
-![exemplo 5](./exemplos/exemplo_5.png)
-![exemplo 6](./exemplos/exemplo_6.png)
-![exemplo 7](./exemplos/exemplo_7.png)
+<table>
+  <tr>
+    <td><img src="./exemplos/exemplo_1.png" width="400"/></td>
+    <td><img src="./exemplos/exemplo_2.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./exemplos/exemplo_0.png" width="400"/></td>
+    <td><img src="./exemplos/exemplo_3.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./exemplos/exemplo_4.png" width="400"/></td>
+    <td><img src="./exemplos/exemplo_5.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="./exemplos/exemplo_6.png" width="400"/></td>
+    <td><img src="./exemplos/exemplo_7.png" width="400"/></td>
+  </tr>
+</table>
