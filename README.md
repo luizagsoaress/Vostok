@@ -6,7 +6,7 @@ Vostok é um projeto de software de código aberto, voltado a exibir de maneira 
 
 Exemplo: Imagem do dia, 2026-08-12.
 
-![Imagem do dia](./exemplo/exemplo_0.png)
+![Imagem do dia](./exemplos/exemplo_0.png)
 
 ## Como usar?
 
