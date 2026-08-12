@@ -39,17 +39,10 @@ Clique na seta `>` para ver o próximo asteroide, ou na `<` para visualizar o an
 ## Telas
 
 ![exemplo 1](./exemplos/exemplo_1.png)
-
 ![exemplo 2](./exemplos/exemplo_2.png)
-
 ![exemplo 0](./exemplos/exemplo_0.png)
-
 ![exemplo 3](./exemplos/exemplo_3.png)
-
 ![exemplo 4](./exemplos/exemplo_4.png)
-
 ![exemplo 5](./exemplos/exemplo_5.png)
-
 ![exemplo 6](./exemplos/exemplo_6.png)
-
 ![exemplo 7](./exemplos/exemplo_7.png)
