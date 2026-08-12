@@ -28,26 +28,26 @@ mvn clean javafx:run
 
 Veja os asteroides que se aproximaram da terra recentemente:
 
-![exemplo 22](./exemplo/exemplo_22.png)
+![exemplo 22](./exemplos/exemplo_22.png)
 
 Clique na seta **>** para ver o próximo asteroide, ou na **<** para visualizar o anterior.
 
-![exemplo 3](./exemplo/exemplo_3.png)
+![exemplo 3](./exemplos/exemplo_3.png)
 
 ## Telas
 
-![exemplo 0](./exemplo/exemplo_0.png)
+![exemplo 0](./exemplos/exemplo_0.png)
 
-![exemplo 1](./exemplo/exemplo_1.png)
+![exemplo 1](./exemplos/exemplo_1.png)
 
-![exemplo 2](./exemplo/exemplo_2.png)
+![exemplo 2](./exemplos/exemplo_2.png)
 
-![exemplo 3](./exemplo/exemplo_3.png)
+![exemplo 3](./exemplos/exemplo_3.png)
 
-![exemplo 4](./exemplo/exemplo_4.png)
+![exemplo 4](./exemplos/exemplo_4.png)
 
-![exemplo 5](./exemplo/exemplo_5.png)
+![exemplo 5](./exemplos/exemplo_5.png)
 
-![exemplo 6](./exemplo/exemplo_6.png)
+![exemplo 6](./exemplos/exemplo_6.png)
 
-![exemplo 7](./exemplo/exemplo_7.png)
+![exemplo 7](./exemplos/exemplo_7.png)
