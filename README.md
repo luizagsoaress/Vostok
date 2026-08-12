@@ -6,7 +6,7 @@
 
 Desenvolvido como projeto de estudos, o nome foi inspirado na série de 'spacecrafts' soviéticas, responsável por levar o primeiro ser humano (Yury A. Gagarin) para o espaço. Novas features serão adicionadas mensalmente, permitindo a visualização de novos conteúdos.
 
-**Exemplo**: Imagem do dia (2026-08-12)
+**Exemplo**: *Imagem do dia (2026-08-12)*
 
 ![Imagem do dia](./exemplos/exemplo_0.png)
 
