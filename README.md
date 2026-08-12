@@ -36,11 +36,11 @@ Clique na seta **>** para ver o próximo asteroide, ou na **<** para visualizar 
 
 ## Telas
 
-![exemplo 0](./exemplos/exemplo_0.png)
-
 ![exemplo 1](./exemplos/exemplo_1.png)
 
 ![exemplo 2](./exemplos/exemplo_2.png)
+
+![exemplo 0](./exemplos/exemplo_0.png)
 
 ![exemplo 3](./exemplos/exemplo_3.png)
 
