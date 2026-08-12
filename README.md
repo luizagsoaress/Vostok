@@ -21,7 +21,7 @@ cd Vostok
 cd vostok
 
 # Rode o código usando Maven:
-mvn clean javafx:run
+mvn clean package && mvn compile && mvn javafx:run 
 ```
 
 ## Exemplo
