@@ -165,7 +165,7 @@ public class Screens {
             p2Container.setPadding(new Insets(0, 0, 0, 25));
             p2Container.setPrefSize(800, 100);
 
-            Label p1 = new Label("Vostok é um projeto de software de código aberto, voltado a exibir de maneira acessível diversos dados da NASA, como imagens, erupções solares recentes, asteroides monitorados e etc. Exemplo: Imagem do dia.");
+            Label p1 = new Label("Vostok é um projeto de software de código aberto, voltado a exibir de maneira acessível diversos dados da NASA, como imagens, erupções solares recentes, asteroides monitorados, etc. Exemplo: Imagem do dia.");
             Label p2 = new Label("Desenvolvido como projeto de estudos, o nome foi inspirado na série de 'spacecrafts' soviéticas, responsável por levar o primeiro ser humano (Yury A. Gagarin) para o espaço. Para manter o projeto ativo, novas features serão adicionadas mensalmente no dia 03.");
             p1.setWrapText(true);
             p1.setMaxWidth(500);
